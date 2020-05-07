@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dimensionText">24dp</dimen>
+    <dimen name="dimensionSmallText">14dp</dimen>
+
+</resources>
