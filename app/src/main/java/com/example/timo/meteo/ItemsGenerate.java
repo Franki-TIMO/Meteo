@@ -3,6 +3,7 @@ package com.example.timo.meteo;
 public class ItemsGenerate {
     private String ville;
     private int image;
+
     private String temperature;
     private String heure;
 
